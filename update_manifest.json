@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/AnhNguyenEnogy/CLONE_VOICE_release/releases/download/v1.0.0/NTA_CLONE_VOICE_1.0.0.zip",
-  "sha256": "5c7b24b4987d356886c7c7bb42fd6800c682738f0f6329bf7916447ce887384d",
+  "sha256": "e21b00925a5e4cd6f17e9988c5cc2a226eddfbe2ed739ae737d7b0edbc071798",
   "changelog": "Phiên bản đầu tiên tích hợp hệ thống check license và tự động co giãn khoảng lặng.",
   "description": "Bản phát hành NTA CLONE VOICE PRO đầu tiên đóng gói sạch không kèm model nặng."
 }
